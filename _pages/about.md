@@ -25,7 +25,7 @@ Katie volunteers as a humanitarian technology consultant for social impact organ
 
 Through her work as Co‑Founder and Chief Strategy Officer of [Assessed Intelligence](https://www.assessedintelligence.com), Katie has helped leaders in highly regulated sectors strengthen cybersecurity, close AI risk and compliance gaps, and put clear policies in place—experience she believes can help Kettle Moraine make wise, practical decisions about technology, safety, and long‑term success.
 
-
+## 
 ![Vote Katie Grillaert for Kettle Moraine School Board](https://github.com/kgrillaert/katieforkm/blob/main/assets/img/katieforkm.png)
 
 ## Values
