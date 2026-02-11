@@ -11,9 +11,8 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: grillaert, ai ethics, responsible ai, machine learning, ai/ml, ai governance, responsible technology, ai policy, tech policy, ai auditing, ai compliance, ai assurance, eu ai act, algorithm ethics # add your own keywords or leave empty
+Vote for Katie Grillaert on Tuesday, April 7th, 2026. 
+keywords: grillaert, school board, katie for km, katieforkm, candidate, wales, genessee, wisconsin, waukesha, delafield, dousman, kettle moraine, kmsd, school district, amy richards, amy for km, amyforkm, lizforkm, liz for km, jay crouse, carl millard, tom hardin, kelly brown, liz nottling, scott kelly, stephen plum # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -49,8 +48,8 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
+search_enabled: false
+socials_in_search: false
 bib_search: true
 
 # Dimensions
