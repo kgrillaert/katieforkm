@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+permalink: /contact/
+title: contact
+description: Contact Katie
+nav: true
 nav_order: 
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_nntL_ZeJLxAkQfOzIyX1-y8wU0cW5x57NOz8kbz6ZDNAZg/viewform?embedded=true" width="640" height="718" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
