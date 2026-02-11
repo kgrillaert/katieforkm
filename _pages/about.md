@@ -43,6 +43,6 @@ Kettle Moraine has a proud tradition of “learning without boundaries,” and I
 I support responsible technology use that strengthens learning and prepares students for the real world. Technology should be used when it clearly improves instruction, while recognizing that strong relationships with teachers and peers are central to how students grow, learn, and build the problem‑solving and communication skills they will need as adults.
 
 I am committed to reducing polarization in how we govern our schools. Discussions must be thoughtful and considerate, and decisions must be grounded in solid evidence, local data, and shared community values. I will keep the focus on one shared goal: academic excellence, real-world preparedness, and healthy, thriving kids in every school.
-
+##
 
 ![Vote Katie Grillaert for Kettle Moraine School Board](https://github.com/kgrillaert/katieforkm/blob/main/assets/img/katieforkm.png "Vote Katie Grillaert for Kettle Moraine School Board")
