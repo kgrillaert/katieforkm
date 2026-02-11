@@ -25,6 +25,14 @@ Katie volunteers as a humanitarian technology consultant for social impact organ
 
 Through her work as Co‑Founder and Chief Strategy Officer of [Assessed Intelligence](https://www.assessedintelligence.com), Katie has helped leaders in highly regulated sectors strengthen cybersecurity, close AI risk and compliance gaps, and put clear policies in place—experience she believes can help Kettle Moraine make wise, practical decisions about technology, safety, and long‑term success.
 
+***
+
+##Values
+*__Listen and explain.__ Board decisions should be understandable and justifiable to the students, families, staff, and taxpayers they affect.
+
+*__Duty of care.__ When a child is struggling or a safety concern is raised, the district has a responsibility to notice, respond, and follow through in partnership with families.
+
+*__Students at the center.__ Schools exist to serve kids’ learning and growth, while being responsible stewards of community trust and taxpayer dollars.
 
 
 
