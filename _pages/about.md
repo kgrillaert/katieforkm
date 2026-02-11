@@ -27,12 +27,12 @@ Through her work as Co‑Founder and Chief Strategy Officer of [Assessed Intelli
 
 ***
 
-##Values
-*__Listen and explain.__ Board decisions should be understandable and justifiable to the students, families, staff, and taxpayers they affect.
+## Values
+* __Listen and explain.__ Board decisions should be understandable and justifiable to the students, families, staff, and taxpayers they affect.
 
-*__Duty of care.__ When a child is struggling or a safety concern is raised, the district has a responsibility to notice, respond, and follow through in partnership with families.
+* __Duty of care.__ When a child is struggling or a safety concern is raised, the district has a responsibility to notice, respond, and follow through in partnership with families.
 
-*__Students at the center.__ Schools exist to serve kids’ learning and growth, while being responsible stewards of community trust and taxpayer dollars.
+* __Students at the center.__ Schools exist to serve kids’ learning and growth, while being responsible stewards of community trust and taxpayer dollars.
 
 
 
