@@ -9,7 +9,7 @@ profile:
   image: Katie_Grillaert_square.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Wales, Wisconsin, United States</p>
+    <p>Wales, Wisconsin, United States</p> 
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
