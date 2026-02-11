@@ -11,10 +11,10 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Vote for Katie Grillaert on Tuesday, April 7th, 2026. 
-keywords: grillaert, school board, katie for km, katieforkm, candidate, wales, genessee, wisconsin, waukesha, delafield, dousman, kettle moraine, kmsd, school district, amy richards, amy for km, amyforkm, lizforkm, liz for km, jay crouse, carl millard, tom hardin, kelly brown, liz nottling, scott kelly, stephen plum # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+   Vote for Katie Grillaert on Tuesday, April 7th, 2026. 
+keywords: grillaert, school board, katie for km, katieforkm, candidate, wales, genessee, wisconsin, waukesha, delafield, dousman, kettle moraine, kmsd, school district, amy richards, amy for km, amyforkm, lizforkm, liz for km, jay crouse, carl millard, tom hardin, kelly brown, liz nottling, scott kelly, stephen plum 
+lang: en 
+icon: ⚛️
 
 url: https://kgrillaert.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
