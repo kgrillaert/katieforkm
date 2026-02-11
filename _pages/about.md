@@ -45,4 +45,4 @@ I support responsible technology use that strengthens learning and prepares stud
 I am committed to reducing polarization in how we govern our schools. Discussions must be thoughtful and considerate, and decisions must be grounded in solid evidence, local data, and shared community values. I will keep the focus on one shared goal: academic excellence, real-world preparedness, and healthy, thriving kids in every school.
 
 
-![Vote Katie Grillaert for Kettle Moraine School Board](assets/img/katieforkm.png "Vote Katie Grillaert for Kettle Moraine School Board")
+![Vote Katie Grillaert for Kettle Moraine School Board](https://github.com/kgrillaert/katieforkm/blob/main/assets/img/katieforkm.png "Vote Katie Grillaert for Kettle Moraine School Board")
