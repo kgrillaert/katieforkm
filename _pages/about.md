@@ -60,6 +60,4 @@ I’m committed to calm, thoughtful board discussions and to decisions grounded 
 **Thoughtful use of technology**
 - Technology should help students learn better and prepare for the real world—not distract from teaching or replace strong relationships with adults. I support using technology when it clearly benefits learning or efficiency, and protecting student well‑being and privacy.
 
-## 
-
 
