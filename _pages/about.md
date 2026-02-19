@@ -60,4 +60,12 @@ I’m committed to calm, thoughtful board discussions and to decisions grounded 
 **Thoughtful use of technology**
 - Technology should help students learn better and prepare for the real world—not distract from teaching or replace strong relationships with adults. I support using technology when it clearly benefits learning or efficiency, and protecting student well‑being and privacy.
 
+## Nonpartisan Candidate
+Katie is running as a nonpartisan candidate and has not sought or received endorsement from any political party.
 
+In Wisconsin, school board elections are officially nonpartisan, meaning party labels do not appear on the ballot. However, candidates may still have personal political views, receive endorsements, or benefit from outside spending, as long as they follow disclosure laws. This can create a transparency gap: many voters understandably assume that a “nonpartisan election” means the candidates themselves are nonpartisan, when in fact only the ballot is. Partisan and ideological backing can still shape these races, often in ways that are not easily visible without researching campaign finance reports and endorsements.
+
+Katie is running as a genuinely nonpartisan candidate—not representing any political party or special interest group, but guided by her own values and a commitment to serve the entire community. To her, being nonpartisan means focusing on facts, collaboration, and respectful debate that seeks understanding rather than division. Productive public debate happens when governing bodies focus on evidence and reasoning rather than partisan conflict, using disagreement to inform better decisions instead of entrenching division.
+
+## Campaign Contributions
+Katie Grillaert and her campaign committee, Katie for KM, have not accepted any campaign contributions.
