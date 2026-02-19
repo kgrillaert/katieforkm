@@ -38,8 +38,6 @@ Katie lives in the Village of Wales with her husband, their two children (4 and 
 * __Students at the center.__ Schools exist to serve students’ learning and growth, while being responsible stewards of community trust and taxpayer dollars.
 
 ## Vision and Priorities 
-
-Vision and Priorities
 I’m running for school board because my family has 14 years ahead in this district, and I want a school board that reflects the strength of our schools—focused on students, respectful of families, and guided by evidence about what helps kids learn and thrive.
 
 Kettle Moraine has a proud tradition of “learning without boundaries,” and I want to build on that by supporting strong academics in core subjects alongside curiosity, creativity, and hands‑on learning.
@@ -61,5 +59,7 @@ I’m committed to calm, thoughtful board discussions and to decisions grounded 
 
 **Thoughtful use of technology**
 - Technology should help students learn better and prepare for the real world—not distract from teaching or replace strong relationships with adults. I support using technology when it clearly benefits learning or efficiency, and protecting student well‑being and privacy.
+
+## 
 
 
